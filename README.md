@@ -3,7 +3,7 @@
 Yonsei Menu Digital merupakan sebuah website yang memberikan solusi bagi sistem pemesanan restaurant. Dalam website ini, customer dapat melakukan pemesanan makanan maupun minuman melalui smartphone tanpa perlu ke bagian kasir.
 
 
-## User Demo
+# User Demo
 
 ### Mobile Support
 Menu digital ini ditujukan untuk platform Mobile.
@@ -36,7 +36,7 @@ Berikut adalah live website yang dapat dikunjungi:  [Yonsei](https://yonsei.nasi
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 
 
-## Admin
+# Admin
 
 ### Ease of Access
 Bagian admin ditujukan untuk platform Desktop.
@@ -65,8 +65,8 @@ Bagian admin ditujukan untuk platform Desktop.
 ### Order Status
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 
-## Team
+# Team
 
 [![Anindita Putri Kirani](https://avatars.githubusercontent.com/u/87638112)](https://github.com/aniindyta) | [![Diana Adilla Lubis](https://avatars.githubusercontent.com/u/112463424)](https://github.com/dianaalbs) | [![Fitria Rahmadani](https://avatars.githubusercontent.com/u/91838067)](https://github.com/ftriara) | [![Hezkiel Bram Setiawan](https://avatars.githubusercontent.com/u/78388591)](https://github.com/haizk)
 ---|---|---|---
-[Anindita Putri Kirani](https://github.com/aniindyta) | [Diana Adilla Lubis](https://github.com/dianaalbs) | [Fitria Rahmadani](https://github.com/ftriara) | [Hezkiel Bram Setiawan](https://github.com/haizk)
+[Anindita Putri Kirani (M0521012)](https://github.com/aniindyta) | [Diana Adilla Lubis (M0521018)](https://github.com/dianaalbs) | [Fitria Rahmadani (M0521022)](https://github.com/ftriara) | [Hezkiel Bram Setiawan (M0521030)](https://github.com/haizk)
