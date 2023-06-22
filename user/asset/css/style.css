@@ -29639,4 +29639,16 @@ img.img-user {
     font-size: 30px;
 }
 
-/*# sourceMappingURL=maps/aprycot.min.css.map */
+.history-each-food {
+    display:flex;
+    flex-grow: 10;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.history-price {
+    display:flex;
+    flex-grow: 10;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
