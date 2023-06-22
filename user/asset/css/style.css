@@ -4535,7 +4535,6 @@ textarea.form-control-lg {
     padding-top: .5rem;
     padding-bottom: .5rem;
 
-    
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
@@ -5252,7 +5251,8 @@ textarea.form-control-lg {
     -webkit-box-flex: 1;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    padding: 1.5rem 1.5rem
+    padding: 1.5rem 1.5rem;
+    
 }
 
 .card-title {
@@ -16526,7 +16526,8 @@ textarea.form-control-lg {
     text-align: center;
     font-size: 1rem;
     text-decoration: none;
-    border-radius: 0.5rem
+    border-radius: 0.5rem;
+    
 }
 
 .card .card-body .iq-media-group-1 .iq-media-1 {
