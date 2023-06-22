@@ -5218,7 +5218,7 @@ textarea.form-control-lg {
     background-color: #fff;
     background-clip: border-box;
     border: 0 solid rgba(0,0,0,0.125);
-    border-radius: 1.5rem
+    border-radius: 1.5rem;
 }
 
 .card>hr {
@@ -5317,7 +5317,7 @@ textarea.form-control-lg {
     bottom: 0;
     left: 0;
     padding: 1rem;
-    border-radius: 1.5rem
+    border-radius: 1.5rem;
 }
 
 .card-img,.card-img-top,.card-img-bottom {
@@ -5335,7 +5335,7 @@ textarea.form-control-lg {
 }
 
 .card-group>.card {
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
 }
 
 @media (min-width: 1200px) {
@@ -14390,8 +14390,9 @@ textarea.form-control-lg {
 .card {
     margin-bottom: 1rem;
     background: rgba(255,255,255,0.6);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
     -webkit-backdrop-filter: blur(42px);
-    backdrop-filter: blur(42px)
+    backdrop-filter: blur(42px);
 }
 
 .card .card-header {
@@ -14404,7 +14405,7 @@ textarea.form-control-lg {
 }
 
 .card.card-white {
-    background: #fff
+    background: #fff;
 }
 
 .card.card-primary {
@@ -14417,7 +14418,7 @@ textarea.form-control-lg {
 
 .heading-title {
     font-family: 'Poppins', sans-serif;
-    font-weight: 400
+    font-weight: 400;
 }
 
 .icon-grid {
@@ -16559,7 +16560,7 @@ textarea.form-control-lg {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    border-radius: .25rem
+    border-radius: .25rem;
 }
 
 .card .card-body .iq-media-1:hover {
