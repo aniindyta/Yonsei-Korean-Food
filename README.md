@@ -40,6 +40,9 @@ Berikut adalah live website yang dapat dikunjungi:  [Yonsei](https://yonsei.nasi
 ![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/580e5133-927a-488e-a00d-404687020fb1)
 ![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/72da33e5-5f96-49b4-9059-5b79c262f953)
 
+### Call Waiter
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/0d1e1485-0bd2-4163-8e2a-0dbd430995f5)
+
 
 # Admin
 
@@ -64,7 +67,8 @@ Bagian admin ditujukan untuk platform Desktop.
 ![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/7f29cf0d-5547-4dea-bdfc-f24489fcb35c)
 
 ### Order History
-![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/7a220149-ca00-4d64-a950-90a6d5d72cf9)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/70be6146-9e29-4975-9081-00c3e4c485c7)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/ddc5abfd-06ff-440d-8759-60b1e6d0c527)
 
 ### Review History
 ![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/a493ff6c-9da3-4011-8d41-f8f6696ddbdf)
@@ -74,6 +78,10 @@ Bagian admin ditujukan untuk platform Desktop.
 
 ### Order Status
 ![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/24b7b945-0a1a-4a55-8653-6fb1c8ddfde7)
+
+### Notification
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/9511c030-3679-47c1-bee5-49019222342d)
+
 
 # Team
 
