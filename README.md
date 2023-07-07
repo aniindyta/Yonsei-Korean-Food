@@ -50,25 +50,30 @@ Bagian admin ditujukan untuk platform Desktop.
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 
 ### Add Menu
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/8ab2182f-fd12-4b27-b2ba-f48c0d7de7c8)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/116dd8d0-4950-4445-801e-760457c808e1)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/4a0650fc-6cf5-4a5e-ac6e-e8618d0b9375)
 
 ### Edit Menu
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/a29af469-3abe-4499-bcf2-799136303f48)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/05719631-a63e-4c4f-9cb8-14b2bc51acc1)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/80defbc2-ebcf-45b0-bac7-03f6ed0a29a3)
 
 ### Delete Menu
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/0216840c-1bc5-4817-981a-4e556245e837)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/7f29cf0d-5547-4dea-bdfc-f24489fcb35c)
 
 ### Order History
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/7a220149-ca00-4d64-a950-90a6d5d72cf9)
 
 ### Review History
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/a493ff6c-9da3-4011-8d41-f8f6696ddbdf)
 
 ### Ongoing Order
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/90ff35be-4b16-46a8-af2c-06c6ca633b79)
 
 ### Order Status
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/24b7b945-0a1a-4a55-8653-6fb1c8ddfde7)
 
 # Team
 
