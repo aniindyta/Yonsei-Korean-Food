@@ -47,7 +47,7 @@ Berikut adalah live website yang dapat dikunjungi:  [Yonsei](https://yonsei.nasi
 Bagian admin ditujukan untuk platform Desktop.
 
 ### Sign In
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
+![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/eaf619ab-1477-4d13-83fa-ca4590208f70)
 
 ### Add Menu
 ![image](https://github.com/haizk/Yonsei-Korean-Food/assets/78388591/8ab2182f-fd12-4b27-b2ba-f48c0d7de7c8)
